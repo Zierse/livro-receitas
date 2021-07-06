@@ -3,3 +3,7 @@
 ###### Seja bem vindo ao nosso livro de Receitas! :fire:
 
 - Pizza;
+
+- Strogonoff;
+
+  
